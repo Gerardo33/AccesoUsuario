@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mensajes</string>
+    <string name="nombreUsuario">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="correo">gerardo0498@yahoo.com.mx</string>
+    <string name="telefono">5525195235</string>
+    <string name="titulo_menuop_mAcerca">Acerca de</string>
+    <string-array name="numeros">
+        <item>5525195235</item>
+        <item>5521421265</item>
+        <item>5512149763</item>
+    </string-array>
+</resources>
